@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Desreversti
+- 👀 I’m interested in ... Networking, Cyber Security, and Visual Imaging
+- 🌱 I’m currently learning ... Computer Networks and Cyber Security
+- 💞️ I’m looking to collaborate on ... Nothing at the moment as I've learning how to use git and github.
+- 📫 How to reach me ... Desreversti [A T ] G Mail .com
